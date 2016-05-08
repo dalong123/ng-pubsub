@@ -1,6 +1,6 @@
 /**
  * @name ng-pubsub
- * @version 1.0
+ * @version 0.0.3
  * @license MIT
  * @author Diego Herrera
  * @description ng-pubsub is an AngularJS module that simplifies the way the siblings scopes -or any two other pieces of code- talk each other.
