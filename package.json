@@ -1,11 +1,11 @@
 
 {
   "name": "ng-pubsub",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ng-pubsub is an AngularJS module that simplifies the way the siblings scopes -or any two other pieces of code- talk each other.",
   "author": "Diego Herrera",
   "homepage": "https://github.com/vermicida/ng-pubsub#readme",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vermicida/ng-pubsub.git"
